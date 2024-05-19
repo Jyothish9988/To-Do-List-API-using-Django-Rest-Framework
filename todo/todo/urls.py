@@ -7,3 +7,4 @@ urlpatterns = [
     path('api-auth/', include('rest_framework.urls')),
     path('todos/', include('todo_api.urls')),  # Ensure this line correctly points to your app's URLs
 ]
+

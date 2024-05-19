@@ -3,6 +3,9 @@
 # Todo App Installation Guide
 
 This guide provides instructions for setting up the Todo app locally.
+![Screenshot 1](screenshots/1.png)
+
+![Screenshot 2](screenshots/2.png)
 
 ## Prerequisites
 

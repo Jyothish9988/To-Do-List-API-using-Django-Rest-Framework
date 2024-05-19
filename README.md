@@ -17,7 +17,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/todo.git
+   git clone https://github.com/Jyothish9988/To-Do-List-API-using-Django-Rest-Framework.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -73,7 +73,7 @@ Before you begin, ensure you have the following installed:
 
 2. **Access the Application:**
 
-   Open a web browser and go to [http://127.0.0.1:8000/](http://127.0.0.1:8000/) to access the Todo app.
+   Open a web browser and go to [http://127.0.0.1:8000/todos/api/](http://127.0.0.1:8000/todos/api/) to access the Todo app.
 
 ## Version Information
 

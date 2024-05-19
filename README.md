@@ -81,9 +81,3 @@ Before you begin, ensure you have the following installed:
 - Django REST Framework: 3.15.1
 - Python: 3.8.10
 
-## Troubleshooting
-
-- If you encounter any issues during installation or while running the application, refer to the project documentation or seek assistance from the project maintainers.
-```
-
-You can save this content in a file named `INSTALLATION.md` and include it in your GitHub repository. Let me know if you need further assistance!

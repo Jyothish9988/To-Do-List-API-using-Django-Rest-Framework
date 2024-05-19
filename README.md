@@ -1,6 +1,5 @@
-Sure, here's the installation guide formatted as Markdown suitable for GitHub:
 
-```markdown
+
 # Todo App Installation Guide
 
 This guide provides instructions for setting up the Todo app locally.
